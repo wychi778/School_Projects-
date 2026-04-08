@@ -1,7 +1,8 @@
 # School_Projects
-From Data Engineering to Statistical Insights
-
-This repository showcases a comprehensive, data-driven approach to complex business challenges, integrating **Relational Database Design (SQL)**, **Statistical Modeling (R)**, and **Actionable Business Intelligence**.
+This repository showcases a comprehensive, data-driven approach to complex business challenges, integrating 
+**Relational Database Design (SQL)**
+**Statistical Modeling (R)** 
+**Actionable Business Intelligence**
 
 ---
 
